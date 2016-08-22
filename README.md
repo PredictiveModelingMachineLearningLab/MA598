@@ -74,9 +74,9 @@ pip install py-orthpol
 + `cd` to your favorite folder.
 + Then, type:
 ```
-git clone https://github.com/PredictiveScienceLab/uq-course.git
+git clone https://github.com/PredictiveScienceLab/MA598.git
 ```
-+ This will download the contents of this repository in a folder called `MA265`.
++ This will download the contents of this repository in a folder called `MA598`.
 + Enter the ``MA598`` folder:
 ```
 cd MA598
@@ -86,7 +86,7 @@ cd MA598
 jupyter notebook
 ```
 + Use the browser to navigate the course, experiment with code etc.
-+ If the course contented is updated, type the following command (while being inside `MA265`) to get the latest version:
++ If the course contented is updated, type the following command (while being inside `MA598`) to get the latest version:
 ```
 git pull origin master
 ```
